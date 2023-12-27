@@ -207,6 +207,7 @@ function buildDutchGrantPopUpInfo(props) {
 }
 
 function buildGravesendPopUpInfo(props) {
+
   var popup_html = "<h3>Brooklyn Grants</h3><hr>";
 
             if( typeof lots_info[props.node] == "undefined" ) { 

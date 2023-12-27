@@ -2127,8 +2127,10 @@ function changeDate(unixDate) {
   beforeMap.setFilter("lot_events-bf43eb-left", dateFilter);
   afterMap.setFilter("lot_events-bf43eb-right", dateFilter);
 
+
   beforeMap.setFilter("grant-lots-left", dateFilter);
   afterMap.setFilter("grant-lots-right", dateFilter);
+
 
   beforeMap.setFilter("grant-lots-lines-left", dateFilter);
   afterMap.setFilter("grant-lots-lines-right", dateFilter);
